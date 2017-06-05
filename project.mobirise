@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Interior Products.html",
+    "currentPage": "index.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -107,7 +107,7 @@
                 "showText": true,
                 "text": "We offer everything you need to make the house you are building into a home for your homeowners.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Exterior Supplies.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
               },
               {
                 "active": true,
@@ -121,7 +121,7 @@
                 "showText": true,
                 "text": "We can supply your site with a wide variatiy of door styles to fit your needs.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"What We Do.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Doors.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
               },
               {
                 "active": false,
@@ -135,7 +135,7 @@
                 "showText": true,
                 "text": "Quality wood counts. Traverse City's most responsive builders use 4 Most Supply for their lumber needs. Give us a call to request a bid today!",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Bid.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Construction Met.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
               },
               {
                 "active": false,
@@ -149,7 +149,7 @@
                 "showText": true,
                 "text": "4 Most Supply offers everything you need to change your house into a living enviroment.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Bid.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Interior Products.html\" data-toolbar=\"-mbrBtnMove\">More</a>"
               }
             ],
             "fullScreen": true,
