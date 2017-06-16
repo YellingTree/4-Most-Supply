@@ -412,9 +412,8 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#msg-box8-v .mbr-section-title,
-#msg-box8-v p {
-  color: #fff;
+#header2-23 .mbr-section-text {
+  font-size: 20px;
 }
 #slider-x P {
   text-align: center;

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 77,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -44,38 +44,61 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-v",
+          "_name": "header2",
+          "_anchor": "header2-23",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/4most-truck-1400x729.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": false,
             "showText": true,
-            "showButton": false
+            "showButtons": true,
+            "showArrow": true
           },
-          "title": "<p>4 Most&nbsp;Supply</p>",
-          "text": "<p>Traverse City’s 4 Most Supply Company is here to Serve You!</p><p>*Please note that all images and text are placeholders</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-320x128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Traverse City’s 4 Most Supply Company is here to Serve You!<br>*Please note that all images and text are placeholders<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_tags": [
@@ -630,7 +653,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pipes-600x333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -640,7 +663,7 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "Plumbing Supply",
+          "title5": "Interior Supplies",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
