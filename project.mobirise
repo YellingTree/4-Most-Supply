@@ -50,7 +50,7 @@
           "_name": "header2",
           "_anchor": "header2-23",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "37",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/4most-truck-1400x729.jpg",
@@ -61,7 +61,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": false,
