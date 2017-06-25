@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Exterior Supplies.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -48,6 +48,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-23",
           "_params": {
             "imageSize": "37",
@@ -93,12 +98,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "Traverse City’s 4 Most Supply Company is here to Serve You!<br>*Please note that all images and text are placeholders<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -2359,10 +2359,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stallion-doors-new-600x396.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Stallion Doors",
@@ -2371,10 +2375,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"http://www.stalliondoors.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/masonite-new-600x855.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Masonite Doors",
@@ -2383,10 +2391,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.masonite.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jeld-wen-600x240.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Jeld-Wen Doors",
@@ -2407,10 +2419,14 @@
           "button4": "<a data-app-btn=\"true\" href=\"http://www.woodportdoors.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/woodgrain-interior-new-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "Woodgrain Doors",
@@ -2791,7 +2807,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/jeld-wen-windows-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
