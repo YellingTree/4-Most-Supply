@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Exterior Supplies.html",
+    "currentPage": "index.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 87,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -259,7 +259,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-320x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -271,7 +271,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -449,7 +449,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -802,7 +802,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         }
       ]
     },
@@ -901,7 +901,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -1111,7 +1111,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -1421,7 +1421,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -1627,7 +1627,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -1809,7 +1809,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -1909,7 +1909,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/holiday-kitchens-2000x1327-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/holiday-kitchens-2000x1327.jpg",
-                "caption": "<a href=\"http://www.holidaykitchens.com/\" target=\"_blank\">Holiday Kitchens</a>",
+                "caption": "[Placeholder]",
                 "active": false
               },
               {
@@ -1930,16 +1930,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/full-overlay-cabinets-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/full-overlay-cabinets-2000x1500.jpg",
                 "caption": "Full Overlay Cabinets",
-                "active": false
-              },
-              {
-                "tags": "Counter Tops",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/quartz-countertop-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/quartz-countertop-2000x1500.png",
-                "caption": "Quartz",
                 "active": false
               },
               {
@@ -1999,7 +1989,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/backplates-2000x1571-800x628.jpg",
                 "image": "@PROJECT_PATH@/assets/images/backplates-2000x1571.jpg",
-                "caption": "Backplates",
+                "caption": "Backsplashes",
                 "active": false
               },
               {
@@ -2060,6 +2050,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/genesee-2000x1326-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/genesee-2000x1326.jpg",
                 "caption": "Genesee",
+                "active": false
+              },
+              {
+                "tags": "Closet Systems",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
+                "caption": "[Placeholder]",
                 "active": true
               }
             ],
@@ -2119,8 +2119,8 @@
               "size": 250
             }
           },
-          "title": "BHP",
-          "text": "Better Home Products",
+          "title": "Better Home Products",
+          "text": "Providing all your cabnet hardware needs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.betterhomeproducts.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
@@ -2276,7 +2276,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -2370,7 +2370,7 @@
             }
           },
           "title1": "Stallion Doors",
-          "subtitle1": "Indoor passage doors",
+          "subtitle1": "<b>Interior Doors</b>",
           "caption1": "[Placeholder for door description]",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.stalliondoors.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
@@ -2386,12 +2386,12 @@
             }
           },
           "title2": "Masonite Doors",
-          "subtitle2": "Open to extraordinary",
-          "caption2": "[Placeholder for door description]",
+          "subtitle2": "<b>Interior and Exterioor Doors</b>",
+          "caption2": "Open to extraordinary",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.masonite.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jeld-wen-600x240.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jeld-wen-exterior-door-new-600x376.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2402,19 +2402,23 @@
             }
           },
           "title3": "Jeld-Wen Doors",
-          "subtitle3": "Windows &amp; Doors",
+          "subtitle3": "<b>Interior and Exterior Doors</b>",
           "caption3": "[Placeholder for Door description]",
           "button3": "<a data-app-btn=\"true\" href=\"http://www.jeld-wen.com/en-us/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wood-port-600x384.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Woodport doors",
-          "subtitle4": "The Fastest turnaround time in the industry",
+          "subtitle4": "<b>Interior Doors</b>",
           "caption4": "[Placeholder for more info]",
           "button4": "<a data-app-btn=\"true\" href=\"http://www.woodportdoors.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
@@ -2430,7 +2434,7 @@
             }
           },
           "title5": "Woodgrain Doors",
-          "subtitle5": "Find your perfect door",
+          "subtitle5": "<b>Interior and Exterior Doors</b>",
           "caption5": "[Placeholder for more info]",
           "button5": "<a data-app-btn=\"true\" href=\"http://www.woodgraindoors.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media6": {
@@ -2445,6 +2449,175 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/stallion-doors-new-2000x1320.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Stallion Doors",
+                "showText": true,
+                "text": "Here to provide you with the perfect passage to your space",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/masonite-new-2000x2852.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Masonite Interior Doors",
+                "showText": true,
+                "text": "Giving you thee best selection in the industry.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/masonite-exterior-2000x2852.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Masonite Exterior Doors",
+                "showText": true,
+                "text": "You only have one chance to make a first impression",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/jeld-wen-2000x802.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Jeld-Wen Interior Doors",
+                "showText": true,
+                "text": "Providing the best fit for any passage.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/jeld-wen-exterior-door-new-2000x1254.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Jeld-Wen Exterior Doors",
+                "showText": true,
+                "text": "Providing the best passage to your home",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/jeld-wen-2000x802.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Woodport Interior Doors",
+                "showText": true,
+                "text": "Providing your home with safe beautiful doors",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/woodgrain-interior-new-2000x2000.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Woodgrain Interior Doors",
+                "showText": true,
+                "text": "[Placeholder ]",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/woodgrain-interior-new-2000x2000.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Woodgrain Exterior Doors",
+                "showText": true,
+                "text": "[Placeholder",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-27",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-29",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "To Alternitave Page Layout",
+          "text": "A diffrent view of this page. [Work in Progress]"
         },
         {
           "_tags": [
@@ -2570,7 +2743,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -2927,6 +3100,55 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.duralifedecking.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-28",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Better Home Products",
+          "text": "Providing you with your door locks to keep your family safe",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.betterhomeproducts.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+        },
+        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -3105,7 +3327,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -3521,7 +3743,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
@@ -3584,6 +3806,216 @@
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-1g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "13975 S. Robinson Rd.\nTraverse City, MI 49684",
+              "placeId": "EjExMzk3NSBTIFJvYmluc29uIFJkLCBUcmF2ZXJzZSBDaXR5LCBNSSA0OTY4NCwgVVNB",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n13975 S. Robinson Rd.<br>\nTraverse City, MI 49684<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@4mostsupply.com<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"Site Map.html\">Site Map</a></li><li><a href=\"https://host.prowebsecure.net:2096/\" target=\"_blank\">WebMail Login</a></li><li>Design by: Michael Havenga</li></ul>"
+        }
+      ]
+    },
+    "Interior Pro. Alt.": {
+      "settings": {
+        "title": "Interior Alt.",
+        "meta_descr": "WIP"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2a",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-320x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Created by Michael Havenga with Mobirise"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "/!\\Work In Progress/!\\",
+          "text": "<p>This page is to test out other layouts of Int. Pro.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Interior Products",
+          "text": "<p>[Placeholder]</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-2c",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
