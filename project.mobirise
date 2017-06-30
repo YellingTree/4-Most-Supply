@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Interior Pro. Alt.",
+    "currentPage": "index.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 87,
+    "uniqCompNum": 89,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -43,6 +43,19 @@
         "order": 1
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2f",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#3e3e3e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"What We Do.html\" data-toolbar=\"-mbrBtnMove\">What We Do</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Bid.html\" data-toolbar=\"-mbrBtnMove\">Bids</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">Testimonials</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contacts</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Interior Products.html\" data-toolbar=\"-mbrBtnMove\">Interior Products</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Doors.html\" data-toolbar=\"-mbrBtnMove\">Doors</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Exterior Supplies.html\" data-toolbar=\"-mbrBtnMove\">Exterior Supplies</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Construction Met.html\" data-toolbar=\"-mbrBtnMove\">Construction Meterial</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Site Map.html\" data-toolbar=\"-mbrBtnMove\">Site Map</a>"
+        },
         {
           "_tags": [
             "Theme"
@@ -71,7 +84,7 @@
             "inverse": true,
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -98,7 +111,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "Traverse City’s 4 Most Supply Company is here to Serve You!<br>*Please note that all images and text are placeholders<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -271,7 +284,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"What We Do.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bid.html\">REQUEST A BID</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonials.html\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Testimonials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">All Pages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"What We Do.html\">What We Do<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bid.html\">Bid</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Testimonials.html\">Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contacts<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Interior Products.html\">Interior Products<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Doors.html\">Doors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Exterior Supplies.html\">Exterior Supplies<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Construction Met.html\">Construction Meterial<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Site Map.html\">Site Map</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Contact.html\">CONTACT US</a></li>"
         },
         {
           "_name": "footer1",
