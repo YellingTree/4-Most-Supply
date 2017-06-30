@@ -71,7 +71,7 @@
             "imageSize": "37",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/4most-truck-1400x729.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1388.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
