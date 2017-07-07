@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Bid.html",
+    "currentPage": "Interior Products.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -1769,7 +1769,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Interior Pro. Alt.\" data-toolbar=\"-mbrBtnMove\">Go to Page</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Interior Products New\" data-toolbar=\"-mbrBtnMove\">Go to Page</a>",
           "title": "Alt. Interior Products Page",
           "text": "Check this one out and see if it fits better."
         },
@@ -4174,9 +4174,9 @@
         }
       ]
     },
-    "Interior Pro. Alt.": {
+    "Interior Products New": {
       "settings": {
-        "title": "Interior Alt.",
+        "title": "Interior Alt",
         "meta_descr": "WIP"
       },
       "components": [
@@ -4592,7 +4592,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/granite-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/granite-2000x15006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/granite-2000x150011.jpg",
                 "caption": "Granite",
                 "active": false
               },
@@ -4682,7 +4682,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/genesse-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/genesse-2000x13337.jpg",
+                "image": "@PROJECT_PATH@/assets/images/genesse-2000x133312.jpg",
                 "caption": "Genesee",
                 "active": false
               },
@@ -4722,7 +4722,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/engineered-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/engineered-2000x13348.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engineered-2000x133413.jpg",
                 "caption": "Engineered",
                 "active": false
               },
@@ -4742,7 +4742,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/virgina-2000x1463-800x585.jpg",
-                "image": "@PROJECT_PATH@/assets/images/virgina-2000x14639.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgina-2000x146314.jpg",
                 "caption": "Virgina",
                 "active": false
               },
