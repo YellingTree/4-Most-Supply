@@ -4592,7 +4592,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/granite-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/granite-2000x150016.jpg",
+                "image": "@PROJECT_PATH@/assets/images/granite-2000x150021.jpg",
                 "caption": "Granite",
                 "active": false
               },
@@ -4682,7 +4682,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/genesse-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/genesse-2000x133317.jpg",
+                "image": "@PROJECT_PATH@/assets/images/genesse-2000x133322.jpg",
                 "caption": "Genesee",
                 "active": false
               },
@@ -4722,7 +4722,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/engineered-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/engineered-2000x133418.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engineered-2000x133423.jpg",
                 "caption": "Engineered",
                 "active": false
               },
@@ -4742,7 +4742,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/virgina-2000x1463-800x585.jpg",
-                "image": "@PROJECT_PATH@/assets/images/virgina-2000x146319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgina-2000x146324.jpg",
                 "caption": "Virgina",
                 "active": false
               },
