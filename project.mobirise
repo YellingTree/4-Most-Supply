@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Interior Products New",
+    "currentPage": "Interior Products.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -54,7 +54,12 @@
             "paddingBottom": 1,
             "bgColor": "#3e3e3e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"What We Do.html\" data-toolbar=\"-mbrBtnMove\">What We Do</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Bid.html\" data-toolbar=\"-mbrBtnMove\">Bids</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">Testimonials</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contacts</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Interior Products.html\" data-toolbar=\"-mbrBtnMove\">Interior Products</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Doors.html\" data-toolbar=\"-mbrBtnMove\">Doors</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Exterior Supplies.html\" data-toolbar=\"-mbrBtnMove\">Exterior Supplies</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Construction Met.html\" data-toolbar=\"-mbrBtnMove\">Construction Meterial</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Site Map.html\" data-toolbar=\"-mbrBtnMove\">Site Map</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"What We Do.html\" data-toolbar=\"-mbrBtnMove\">What We Do</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Bid.html\" data-toolbar=\"-mbrBtnMove\">Bids</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">Testimonials</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contacts</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Interior Products.html\" data-toolbar=\"-mbrBtnMove\">Interior Products</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Doors.html\" data-toolbar=\"-mbrBtnMove\">Doors</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Exterior Supplies.html\" data-toolbar=\"-mbrBtnMove\">Exterior Supplies</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Construction Met.html\" data-toolbar=\"-mbrBtnMove\">Construction Meterial</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"Site Map.html\" data-toolbar=\"-mbrBtnMove\">Site Map</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container mbr-after-navbar\" style=\"background-color: rgb(62, 62, 62); padding-top: 80px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"text-xs-center\"><a class=\"btn mbr-editable-button btn-white\" href=\"About.html\" code-editable-id=\"16\">About</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"What We Do.html\" code-editable-id=\"17\">What We Do</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Bid.html\" code-editable-id=\"18\">Bids</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Testimonials.html\" code-editable-id=\"19\">Testimonials</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Contact.html\" code-editable-id=\"20\">Contacts</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Interior Products.html\" code-editable-id=\"21\">Interior Products</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Doors.html\" code-editable-id=\"22\">Doors</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Exterior Supplies.html\" code-editable-id=\"23\">Exterior Supplies</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Construction Met.html\" code-editable-id=\"24\">Construction Meterial</a> <a class=\"btn mbr-editable-button btn-white-outline btn-white\" href=\"Site Map.html\" code-editable-id=\"25\">Site Map</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -2190,7 +2195,12 @@
           "title6": "Genesee",
           "subtitle6": "[Placeholder]",
           "caption6": "[Placeholder]",
-          "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/granite-2000x1500.jpg\" class=\"card-img-top\"></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"315\">Granite</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"316\">[Placeholder]</h5>\n                    <p class=\"card-text mbr-editable-content\" code-editable-id=\"317\">[Placeholder]</p>\n                    <div class=\"card-btn\"><a href=\"#\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"318\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/laminate-800x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"319\">Laminate</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"320\">[Placeholder]</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"321\">[Placeholder]</p>\n                        <div class=\"card-btn\"><a href=\"#\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"322\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/solid-surface-800x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"323\">Solid Surface</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"324\">[Placeholder]</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"325\">[Placeholder]</p>\n                        <div class=\"card-btn\"><a href=\"#\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"326\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/butcher-block-800x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"327\">Butcher Block</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"328\">[Placeholder]</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"329\">[Placeholder]</p>\n                        <div class=\"card-btn\"><a href=\"#\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"330\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/cambria-quartz-800x600.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"331\">Cambria Quartz</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"332\">[Placeholder]</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"333\">[Placeholder]</p>\n                        <div class=\"card-btn\"><a href=\"#\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"334\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/genesse-2000x1333.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"335\">Genesee</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"336\">[Placeholder]</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"337\">[Placeholder]</p>\n                        <div class=\"card-btn\"><a href=\"#\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"338\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n    \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -4360,6 +4370,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-2r",
           "_params": {
             "imageSize": 50,
@@ -4402,15 +4420,7 @@
           },
           "title": "Cabinets",
           "text": "[Placeholder]",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Cabinets</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Cabinets</a>"
         },
         {
           "_styles": {
@@ -4451,6 +4461,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-2q",
           "_params": {
             "imageSize": 50,
@@ -4497,15 +4515,7 @@
           },
           "title": "Flooring",
           "text": "Your floor can change a lot about your home.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Flooring</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Flooring</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -4592,7 +4602,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/granite-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/granite-2000x150021.jpg",
+                "image": "@PROJECT_PATH@/assets/images/granite-2000x15001.jpg",
                 "caption": "Granite",
                 "active": false
               },
@@ -4682,7 +4692,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/genesse-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/genesse-2000x133322.jpg",
+                "image": "@PROJECT_PATH@/assets/images/genesse-2000x13332.jpg",
                 "caption": "Genesee",
                 "active": false
               },
@@ -4722,7 +4732,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/engineered-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/engineered-2000x133423.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engineered-2000x13343.jpg",
                 "caption": "Engineered",
                 "active": false
               },
@@ -4742,7 +4752,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/virgina-2000x1463-800x585.jpg",
-                "image": "@PROJECT_PATH@/assets/images/virgina-2000x146324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgina-2000x14634.jpg",
                 "caption": "Virgina",
                 "active": false
               },
