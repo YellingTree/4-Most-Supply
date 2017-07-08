@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Interior Products.html",
+    "currentPage": "index.html",
     "name": "4 Most Supply- Current",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -158,14 +158,16 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-23",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-36",
           "_params": {
-            "imageSize": "45",
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1388.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -173,12 +175,11 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.3",
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "inverse": true,
             "showTitle": false,
             "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -197,19 +198,27 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
-              "size": 250
+              "size": 0
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Traverse City’s 4 Most Supply Company is here to Serve You!<br>*Please note that all images and text are placeholders<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_customHTML": "\n<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/mbr-2000x1388.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 45%;\">\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/logo-320x128.png\"></div>\n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n\n                            \n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"405\">Traverse City’s 4 Most Supply Company is here to Serve You!<br>*Please note that all images and text are placeholders<br></p>\n                            </div>\n\n                            \n\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#slider-x\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>\n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-section-text {\n\tfont-size: 20px;\n}\n",
-          "_customTemplate": true
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Traverse City’s 4 Most Supply Company is here to Serve You!<br>*Please note that all images and text are placeholders</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "21px"
+            },
+            "B": {
+              "font-size": "19px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -4571,7 +4580,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/granite-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/granite-2000x150016.jpg",
+                "image": "@PROJECT_PATH@/assets/images/granite-2000x150021.jpg",
                 "caption": "Granite",
                 "active": false
               },
@@ -4661,7 +4670,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/genesse-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/genesse-2000x133317.jpg",
+                "image": "@PROJECT_PATH@/assets/images/genesse-2000x133322.jpg",
                 "caption": "Genesee",
                 "active": false
               },
@@ -4701,7 +4710,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/engineered-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/engineered-2000x133418.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engineered-2000x133423.jpg",
                 "caption": "Engineered",
                 "active": false
               },
@@ -4721,7 +4730,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/virgina-2000x1463-800x585.jpg",
-                "image": "@PROJECT_PATH@/assets/images/virgina-2000x146319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgina-2000x146324.jpg",
                 "caption": "Virgina",
                 "active": false
               },

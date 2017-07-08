@@ -1,7 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
 
 
 
@@ -479,8 +482,14 @@ h6,
 #menu-2a .close-icon::after {
   background-color: #ffffff;
 }
-#header2-23 .mbr-section-text {
-  font-size: 20px;
+#msg-box5-36 P {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+}
+#msg-box5-36 B {
+  font-size: 19px;
+  font-family: 'Lato', sans-serif;
 }
 #slider-x P {
   text-align: center;
