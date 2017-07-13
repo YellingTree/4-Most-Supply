@@ -1128,6 +1128,34 @@ h6,
 #msg-box8-1j p {
   color: #fff;
 }
+#msg-box3-37 .mbr-section-title,
+#msg-box3-37 p {
+  color: #000;
+}
+#msg-box3-37 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-37 .lead P {
+  color: #ffffff;
+}
+#msg-box3-39 .mbr-section-title,
+#msg-box3-39 p {
+  color: #000;
+}
+#msg-box3-39 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-39 .lead {
+  color: #ffffff;
+}
+#header3-38 .mbr-section-title,
+#header3-38 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3b .mbr-section-title,
+#header3-3b .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-16 .hide-buttons .nav-btn {
   display: none !important;
 }
