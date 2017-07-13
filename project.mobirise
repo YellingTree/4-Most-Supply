@@ -187,7 +187,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0",
             "overlayColor": "#000000",
             "inverse": true,
             "showTitle": false,
@@ -4580,7 +4580,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/granite-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/granite-2000x15001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/granite-2000x15006.jpg",
                 "caption": "Granite",
                 "active": false
               },
@@ -4670,7 +4670,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/genesse-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/genesse-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/genesse-2000x13337.jpg",
                 "caption": "Genesee",
                 "active": false
               },
@@ -4710,7 +4710,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/engineered-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/engineered-2000x13343.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engineered-2000x13348.jpg",
                 "caption": "Engineered",
                 "active": false
               },
@@ -4730,7 +4730,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/virgina-2000x1463-800x585.jpg",
-                "image": "@PROJECT_PATH@/assets/images/virgina-2000x14634.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgina-2000x14639.jpg",
                 "caption": "Virgina",
                 "active": false
               },
