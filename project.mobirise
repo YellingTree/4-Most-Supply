@@ -55,7 +55,7 @@
         "main": true,
         "title": "Home- 4 Most",
         "meta_descr": "Traverse's City's permier supplier of exterior and interior building supplies, providing high quality products that compete with large big box stores, and offering personal support from our staff.",
-        "header_custom": "<!--\nStart Phone redirec\n-->\n<script type=\"text /javascript\".\nif (screen.width <= 699 {\ndocument.location =\"mobileindex.html\";\n}\n</script>\n<!-- \nEnd of phone redirect\n-->",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
